@@ -2,6 +2,10 @@
 
 
 
+##Login And Registration Page Assignment (Date: 07/03/2022)
+https://github.com/Jayzz-z/LoginPage-Assignmnet
+
+
 
 ## Day-1 To Day-6
 https://github.com/Jayzz-z/Java-HandsOn
