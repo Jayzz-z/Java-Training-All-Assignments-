@@ -2,7 +2,7 @@
 
 
 
-##Login And Registration Page Assignment (Date: 07/03/2022)
+## Login And Registration Page Assignment (Date: 07/03/2022)
 https://github.com/Jayzz-z/LoginPage-Assignmnet
 
 
